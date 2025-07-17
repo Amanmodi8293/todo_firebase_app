@@ -24,5 +24,5 @@ This is a simple Todo App built using **Flutter**, **Firebase Authentication**, 
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/todo_firebase_app.git
+git clone https://github.com/Amanmodi8293/todo_firebase_app.git
 cd todo_firebase_app
