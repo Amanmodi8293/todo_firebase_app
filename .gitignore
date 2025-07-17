@@ -1,0 +1,45 @@
+
+---
+
+## ✅ `.gitignore` (to ignore build/temp files)
+
+```gitignore
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+*.lock
+*.log
+
+# Firebase auto files
+firebase_options.dart
+
+# Android/Gradle
+android/.gradle/
+android/app/build/
+android/local.properties
+android/.idea/
+
+# iOS (if applicable)
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+
+# Web
+web/.dart_tool/
+web/build/
+
+# VS Code
+.vscode/
+
+# Others
+*.iml
+.idea/
+*.DS_Store
+*.apk
+*.ipa
+*.jks
+
+# Hidden files
+.gradle/
